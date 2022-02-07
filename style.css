@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    background-color: #9df0ff;
+    color: #000000;
+    font-family: helvetica;
+}
+
+#top {
+    text-align: center;
+}
+
+.content {
+    text-align: center;
+}
